@@ -1,0 +1,296 @@
+2020-05-17 23:01:25:ERROR: POSSIVEIS PROBLEMAS, COM A INTERNET, VERIFIÇÃO NÃO PODE SER EFETUADA.
+2020-05-17 23:01:25:INFO: AVISO ---> LICENÇA NÃO ENCONTRADA OU IVALIDA, ROBÔ SÓ FUNCIONARÁ EM CONTA TREINAMENTO . <---
+2020-05-17 23:01:25:INFO: Conectando na IQ-Option...
+2020-05-17 23:01:29:INFO: ----------> CONECTADO <----------
+2020-05-17 23:01:29:INFO: Versao: 4.0.3
+2020-05-17 23:01:29:INFO: Licenciado para o email: agussybanez@gmail.com
+2020-05-17 23:01:29:INFO: ************ DADOS DA CONTA NA IQOPTION *************
+2020-05-17 23:01:29:INFO: Id-Iq: 65729329
+2020-05-17 23:01:29:INFO: Moeda: USD
+2020-05-17 23:01:29:INFO: Saldo: 9950.75
+2020-05-17 23:01:29:INFO: Tipo conta: Treinamento
+2020-05-17 23:01:29:INFO: ------------ Dados Trade -------------
+2020-05-17 23:01:29:INFO: Tipo opção: DIGITAIS
+2020-05-17 23:01:29:INFO: Tipo calculo: Valor
+2020-05-17 23:01:29:INFO: Valor do trade: 1.0
+2020-05-17 23:01:29:INFO: Expiração: 1-(M1)
+2020-05-17 23:01:29:INFO: Delay em (segundos): 2
+2020-05-17 23:01:29:INFO: % Payout: 0.0
+2020-05-17 23:01:29:INFO: Trabalhar em OTC: NÃO
+2020-05-17 23:01:29:INFO: ------------ Dados Martingale -------------
+2020-05-17 23:01:29:INFO: Max. martingale: 2
+2020-05-17 23:01:29:INFO: Fator martingale: 1.8
+2020-05-17 23:01:29:INFO: ------------ Dados Gerenciamento -------------
+2020-05-17 23:01:29:INFO: Tipo calculo: Valor
+2020-05-17 23:01:29:INFO: Take profit em (valor): 16.0
+2020-05-17 23:01:29:INFO: Stop loss em (valor): 25.0
+2020-05-17 23:01:29:INFO: ------------ Dados Controle -------------
+2020-05-17 23:01:29:INFO: Horario servidor: S
+2020-05-17 23:01:29:INFO: Verifica ativo fechado: S
+2020-05-17 23:01:29:INFO: Verifica tendencia: False
+2020-05-17 23:01:29:INFO: Fuso horário: America/Argentina/Buenos_Aires
+2020-05-17 23:10:02:ERROR: POSSIVEIS PROBLEMAS, COM A INTERNET, VERIFIÇÃO NÃO PODE SER EFETUADA.
+2020-05-17 23:10:02:INFO: AVISO ---> LICENÇA NÃO ENCONTRADA OU IVALIDA, ROBÔ SÓ FUNCIONARÁ EM CONTA TREINAMENTO . <---
+2020-05-17 23:10:02:INFO: Conectando na IQ-Option...
+2020-05-17 23:10:06:INFO: ----------> CONECTADO <----------
+2020-05-17 23:10:06:INFO: Versao: 4.0.3
+2020-05-17 23:10:06:INFO: Licenciado para o email: agussybanez@gmail.com
+2020-05-17 23:10:06:INFO: ************ DADOS DA CONTA NA IQOPTION *************
+2020-05-17 23:10:06:INFO: Id-Iq: 65729329
+2020-05-17 23:10:06:INFO: Moeda: USD
+2020-05-17 23:10:06:INFO: Saldo: 9950.75
+2020-05-17 23:10:06:INFO: Tipo conta: Treinamento
+2020-05-17 23:10:06:INFO: ------------ Dados Trade -------------
+2020-05-17 23:10:06:INFO: Tipo opção: DIGITAIS
+2020-05-17 23:10:06:INFO: Tipo calculo: Valor
+2020-05-17 23:10:06:INFO: Valor do trade: 1.0
+2020-05-17 23:10:06:INFO: Expiração: 1-(M1)
+2020-05-17 23:10:06:INFO: Delay em (segundos): 2
+2020-05-17 23:10:06:INFO: % Payout: 0.0
+2020-05-17 23:10:06:INFO: Trabalhar em OTC: NÃO
+2020-05-17 23:10:06:INFO: ------------ Dados Martingale -------------
+2020-05-17 23:10:06:INFO: Max. martingale: 2
+2020-05-17 23:10:06:INFO: Fator martingale: 1.8
+2020-05-17 23:10:06:INFO: ------------ Dados Gerenciamento -------------
+2020-05-17 23:10:06:INFO: Tipo calculo: Valor
+2020-05-17 23:10:06:INFO: Take profit em (valor): 16.0
+2020-05-17 23:10:06:INFO: Stop loss em (valor): 25.0
+2020-05-17 23:10:06:INFO: ------------ Dados Controle -------------
+2020-05-17 23:10:06:INFO: Horario servidor: S
+2020-05-17 23:10:06:INFO: Verifica ativo fechado: S
+2020-05-17 23:10:06:INFO: Verifica tendencia: False
+2020-05-17 23:10:06:INFO: Fuso horário: America/Argentina/Buenos_Aires
+2020-05-17 23:10:07:INFO: -> Aguardando horário: 17/05/2020 23:11:58 ativo: AUDUSD direção: CALL timeframe: 1
+2020-05-17 23:11:27:ERROR: ERROR: Ativo pode estar FECHADO ou EXPIRAÇÃO na encontrada, verifique. dia: 17 horário: 23:11:58 ativo: AUDUSD direção: CALL
+2020-05-17 23:11:27:ERROR: None
+2020-05-17 23:11:27:INFO: -> Aguardando horário: 17/05/2020 23:11:58 ativo: GBPJPY direção: CALL timeframe: 1
+2020-05-17 23:12:26:INFO: Finalizando a execução dos trade dessa sessão.
+2020-05-17 23:16:43:ERROR: POSSIVEIS PROBLEMAS, COM A INTERNET, VERIFIÇÃO NÃO PODE SER EFETUADA.
+2020-05-17 23:16:43:INFO: AVISO ---> LICENÇA NÃO ENCONTRADA OU IVALIDA, ROBÔ SÓ FUNCIONARÁ EM CONTA TREINAMENTO . <---
+2020-05-17 23:16:43:INFO: Conectando na IQ-Option...
+2020-05-17 23:16:50:INFO: ----------> CONECTADO <----------
+2020-05-17 23:16:51:INFO: Versao: 4.0.3
+2020-05-17 23:16:51:INFO: Licenciado para o email: agussybanez@gmail.com
+2020-05-17 23:16:51:INFO: ************ DADOS DA CONTA NA IQOPTION *************
+2020-05-17 23:16:51:INFO: Id-Iq: 65729329
+2020-05-17 23:16:51:INFO: Moeda: USD
+2020-05-17 23:16:51:INFO: Saldo: 9950.75
+2020-05-17 23:16:51:INFO: Tipo conta: Treinamento
+2020-05-17 23:16:51:INFO: ------------ Dados Trade -------------
+2020-05-17 23:16:51:INFO: Tipo opção: DIGITAIS
+2020-05-17 23:16:51:INFO: Tipo calculo: Valor
+2020-05-17 23:16:51:INFO: Valor do trade: 1.0
+2020-05-17 23:16:51:INFO: Expiração: 1-(M1)
+2020-05-17 23:16:51:INFO: Delay em (segundos): 2
+2020-05-17 23:16:51:INFO: % Payout: 0.0
+2020-05-17 23:16:51:INFO: Trabalhar em OTC: NÃO
+2020-05-17 23:16:51:INFO: ------------ Dados Martingale -------------
+2020-05-17 23:16:51:INFO: Max. martingale: 2
+2020-05-17 23:16:51:INFO: Fator martingale: 1.8
+2020-05-17 23:16:51:INFO: ------------ Dados Gerenciamento -------------
+2020-05-17 23:16:51:INFO: Tipo calculo: Valor
+2020-05-17 23:16:51:INFO: Take profit em (valor): 16.0
+2020-05-17 23:16:51:INFO: Stop loss em (valor): 25.0
+2020-05-17 23:16:51:INFO: ------------ Dados Controle -------------
+2020-05-17 23:16:51:INFO: Horario servidor: S
+2020-05-17 23:16:51:INFO: Verifica ativo fechado: S
+2020-05-17 23:16:51:INFO: Verifica tendencia: False
+2020-05-17 23:16:51:INFO: Fuso horário: America/Argentina/Buenos_Aires
+2020-05-17 23:16:53:ERROR: Verifique o arquivo [TRADE.TXT] - Pode não conter nenhuma linha no arquivo ou não existe lançamento de horário.
+2020-05-17 23:16:53:INFO: Finalizando a execução dos trade dessa sessão.
+2020-05-17 23:22:24:ERROR: POSSIVEIS PROBLEMAS, COM A INTERNET, VERIFIÇÃO NÃO PODE SER EFETUADA.
+2020-05-17 23:22:24:INFO: AVISO ---> LICENÇA NÃO ENCONTRADA OU IVALIDA, ROBÔ SÓ FUNCIONARÁ EM CONTA TREINAMENTO . <---
+2020-05-17 23:22:24:INFO: Conectando na IQ-Option...
+2020-05-17 23:22:29:INFO: ----------> CONECTADO <----------
+2020-05-17 23:22:30:INFO: Versao: 4.0.3
+2020-05-17 23:22:30:INFO: Licenciado para o email: agussybanez@gmail.com
+2020-05-17 23:22:30:INFO: ************ DADOS DA CONTA NA IQOPTION *************
+2020-05-17 23:22:30:INFO: Id-Iq: 65729329
+2020-05-17 23:22:30:INFO: Moeda: USD
+2020-05-17 23:22:30:INFO: Saldo: 9950.75
+2020-05-17 23:22:30:INFO: Tipo conta: Treinamento
+2020-05-17 23:22:30:INFO: ------------ Dados Trade -------------
+2020-05-17 23:22:30:INFO: Tipo opção: DIGITAIS
+2020-05-17 23:22:30:INFO: Tipo calculo: Valor
+2020-05-17 23:22:30:INFO: Valor do trade: 1.0
+2020-05-17 23:22:30:INFO: Expiração: 1-(M1)
+2020-05-17 23:22:30:INFO: Delay em (segundos): 2
+2020-05-17 23:22:30:INFO: % Payout: 0.0
+2020-05-17 23:22:30:INFO: Trabalhar em OTC: NÃO
+2020-05-17 23:22:30:INFO: ------------ Dados Martingale -------------
+2020-05-17 23:22:30:INFO: Max. martingale: 2
+2020-05-17 23:22:30:INFO: Fator martingale: 1.8
+2020-05-17 23:22:30:INFO: ------------ Dados Gerenciamento -------------
+2020-05-17 23:22:30:INFO: Tipo calculo: Valor
+2020-05-17 23:22:30:INFO: Take profit em (valor): 16.0
+2020-05-17 23:22:30:INFO: Stop loss em (valor): 25.0
+2020-05-17 23:22:30:INFO: ------------ Dados Controle -------------
+2020-05-17 23:22:30:INFO: Horario servidor: S
+2020-05-17 23:22:30:INFO: Verifica ativo fechado: S
+2020-05-17 23:22:30:INFO: Verifica tendencia: False
+2020-05-17 23:22:30:INFO: Fuso horário: America/Argentina/Buenos_Aires
+2020-05-17 23:22:31:INFO: -> Aguardando horário: 17/05/2020 23:22:58 ativo: USDJPY direção: CALL timeframe: 1
+2020-05-17 23:22:58:INFO:  | ---> Abrindo entradas: Servidor:  23:22:58 / Agendado: 23:23:00/23:22:58
+2020-05-17 23:23:00:INFO:  | ---> Nro. ordem: 11779872624 - Valor: 1.0 <====
+2020-05-17 23:24:03:INFO:    | ---> Ordem: 11779872624 | LOSS | Valor: 1.0 | Ganho: 0 | Perda: -1.0
+2020-05-17 23:24:03:INFO:    | ---> Saldo: -1.0 | TakeProfit: 16.0 | StopLoss: 25.0
+2020-05-17 23:24:05:INFO:  | ---> Nro. ordem: 11779876411 - Valor: 1.8 <====
+2020-05-17 23:25:05:INFO:    | ---> Ordem: 11779876411 | LOSS | Valor: 1.8 | Ganho: 0 | Perda: -1.8
+2020-05-17 23:25:05:INFO:    | ---> Saldo: -2.8 | TakeProfit: 16.0 | StopLoss: 25.0
+2020-05-17 23:25:07:INFO:  | ---> Nro. ordem: 11779879964 - Valor: 3.24 <====
+2020-05-17 23:26:03:INFO:    | ---> Ordem: 11779879964 | WIN | Valor: 3.24 | Ganho: 2.73 | Perda: 0
+2020-05-17 23:26:03:INFO:    | ---> Saldo: -0.07 | TakeProfit: 16.0 | StopLoss: 25.0
+2020-05-17 23:26:05:INFO: -> Aguardando horário: 17/05/2020 23:26:58 ativo: AUDJPY direção: PUT timeframe: 1
+2020-05-17 23:26:58:INFO:  | ---> Abrindo entradas: Servidor:  23:26:58 / Agendado: 23:27:00/23:26:58
+2020-05-17 23:27:00:INFO:  | ---> Nro. ordem: 11779889192 - Valor: 1.0 <====
+2020-05-17 23:28:03:INFO:    | ---> Ordem: 11779889192 | LOSS | Valor: 1.0 | Ganho: 0 | Perda: -1.0
+2020-05-17 23:28:03:INFO:    | ---> Saldo: -1.07 | TakeProfit: 16.0 | StopLoss: 25.0
+2020-05-17 23:28:04:INFO:  | ---> Nro. ordem: 11779893289 - Valor: 1.8 <====
+2020-05-17 23:29:03:INFO:    | ---> Ordem: 11779893289 | WIN | Valor: 1.8 | Ganho: 1.51 | Perda: 0
+2020-05-17 23:29:03:INFO:    | ---> Saldo: 0.44 | TakeProfit: 16.0 | StopLoss: 25.0
+2020-05-17 23:29:04:INFO: -> Aguardando horário: 17/05/2020 23:31:58 ativo: USDJPY direção: CALL timeframe: 1
+2020-05-17 23:31:58:INFO:  | ---> Abrindo entradas: Servidor:  23:31:58 / Agendado: 23:32:00/23:31:58
+2020-05-17 23:32:00:INFO:  | ---> Nro. ordem: 11779910168 - Valor: 1.0 <====
+2020-05-17 23:33:03:INFO:    | ---> Ordem: 11779910168 | WIN | Valor: 1.0 | Ganho: 0.84 | Perda: 0
+2020-05-17 23:33:03:INFO:    | ---> Saldo: 1.28 | TakeProfit: 16.0 | StopLoss: 25.0
+2020-05-17 23:33:03:INFO: Finalizando a execução dos trade dessa sessão.
+2020-05-17 23:34:36:ERROR: POSSIVEIS PROBLEMAS, COM A INTERNET, VERIFIÇÃO NÃO PODE SER EFETUADA.
+2020-05-17 23:34:36:INFO: AVISO ---> LICENÇA NÃO ENCONTRADA OU IVALIDA, ROBÔ SÓ FUNCIONARÁ EM CONTA TREINAMENTO . <---
+2020-05-17 23:34:36:INFO: Conectando na IQ-Option...
+2020-05-17 23:34:40:INFO: ----------> CONECTADO <----------
+2020-05-17 23:34:40:INFO: Versao: 4.0.3
+2020-05-17 23:34:40:INFO: Licenciado para o email: agussybanez@gmail.com
+2020-05-17 23:34:40:INFO: ************ DADOS DA CONTA NA IQOPTION *************
+2020-05-17 23:34:40:INFO: Id-Iq: 65729329
+2020-05-17 23:34:40:INFO: Moeda: USD
+2020-05-17 23:34:40:INFO: Saldo: 9952.03
+2020-05-17 23:34:40:INFO: Tipo conta: Treinamento
+2020-05-17 23:34:40:INFO: ------------ Dados Trade -------------
+2020-05-17 23:34:40:INFO: Tipo opção: DIGITAIS
+2020-05-17 23:34:40:INFO: Tipo calculo: Valor
+2020-05-17 23:34:40:INFO: Valor do trade: 1.0
+2020-05-17 23:34:40:INFO: Expiração: 1-(M1)
+2020-05-17 23:34:40:INFO: Delay em (segundos): 2
+2020-05-17 23:34:40:INFO: % Payout: 0.0
+2020-05-17 23:34:40:INFO: Trabalhar em OTC: NÃO
+2020-05-17 23:34:40:INFO: ------------ Dados Martingale -------------
+2020-05-17 23:34:40:INFO: Max. martingale: 2
+2020-05-17 23:34:40:INFO: Fator martingale: 1.8
+2020-05-17 23:34:40:INFO: ------------ Dados Gerenciamento -------------
+2020-05-17 23:34:40:INFO: Tipo calculo: Valor
+2020-05-17 23:34:40:INFO: Take profit em (valor): 16.0
+2020-05-17 23:34:40:INFO: Stop loss em (valor): 25.0
+2020-05-17 23:34:40:INFO: ------------ Dados Controle -------------
+2020-05-17 23:34:40:INFO: Horario servidor: S
+2020-05-17 23:34:40:INFO: Verifica ativo fechado: S
+2020-05-17 23:34:40:INFO: Verifica tendencia: False
+2020-05-17 23:34:40:INFO: Fuso horário: America/Argentina/Buenos_Aires
+2020-05-17 23:34:41:ERROR: Verifique o arquivo [TRADE.TXT] - Pode não conter nenhuma linha no arquivo ou não existe lançamento de horário.
+2020-05-17 23:34:41:INFO: Finalizando a execução dos trade dessa sessão.
+2020-05-17 23:38:41:ERROR: POSSIVEIS PROBLEMAS, COM A INTERNET, VERIFIÇÃO NÃO PODE SER EFETUADA.
+2020-05-17 23:38:41:INFO: AVISO ---> LICENÇA NÃO ENCONTRADA OU IVALIDA, ROBÔ SÓ FUNCIONARÁ EM CONTA TREINAMENTO . <---
+2020-05-17 23:38:41:INFO: Conectando na IQ-Option...
+2020-05-17 23:38:45:INFO: ----------> CONECTADO <----------
+2020-05-17 23:38:45:INFO: Versao: 4.0.3
+2020-05-17 23:38:45:INFO: Licenciado para o email: agussybanez@gmail.com
+2020-05-17 23:38:45:INFO: ************ DADOS DA CONTA NA IQOPTION *************
+2020-05-17 23:38:45:INFO: Id-Iq: 65729329
+2020-05-17 23:38:45:INFO: Moeda: USD
+2020-05-17 23:38:45:INFO: Saldo: 9952.03
+2020-05-17 23:38:45:INFO: Tipo conta: Treinamento
+2020-05-17 23:38:45:INFO: ------------ Dados Trade -------------
+2020-05-17 23:38:45:INFO: Tipo opção: DIGITAIS
+2020-05-17 23:38:45:INFO: Tipo calculo: Valor
+2020-05-17 23:38:45:INFO: Valor do trade: 1.0
+2020-05-17 23:38:45:INFO: Expiração: 1-(M1)
+2020-05-17 23:38:45:INFO: Delay em (segundos): 2
+2020-05-17 23:38:45:INFO: % Payout: 0.0
+2020-05-17 23:38:45:INFO: Trabalhar em OTC: NÃO
+2020-05-17 23:38:45:INFO: ------------ Dados Martingale -------------
+2020-05-17 23:38:45:INFO: Max. martingale: 2
+2020-05-17 23:38:45:INFO: Fator martingale: 1.8
+2020-05-17 23:38:45:INFO: ------------ Dados Gerenciamento -------------
+2020-05-17 23:38:45:INFO: Tipo calculo: Valor
+2020-05-17 23:38:45:INFO: Take profit em (valor): 16.0
+2020-05-17 23:38:45:INFO: Stop loss em (valor): 25.0
+2020-05-17 23:38:45:INFO: ------------ Dados Controle -------------
+2020-05-17 23:38:45:INFO: Horario servidor: S
+2020-05-17 23:38:45:INFO: Verifica ativo fechado: S
+2020-05-17 23:38:45:INFO: Verifica tendencia: False
+2020-05-17 23:38:45:INFO: Fuso horário: America/Argentina/Buenos_Aires
+2020-05-17 23:38:46:INFO: -> Aguardando horário: 17/05/2020 23:39:58 ativo: USDJPY direção: PUT timeframe: 1
+2020-05-17 23:39:58:INFO:  | ---> Abrindo entradas: Servidor:  23:39:58 / Agendado: 23:40:00/23:39:58
+2020-05-17 23:39:59:INFO:  | ---> Nro. ordem: 11779941054 - Valor: 1.0 <====
+2020-05-17 23:41:03:INFO:    | ---> Ordem: 11779941054 | WIN | Valor: 1.0 | Ganho: 0.84 | Perda: 0
+2020-05-17 23:41:03:INFO:    | ---> Saldo: 0.84 | TakeProfit: 16.0 | StopLoss: 25.0
+2020-05-17 23:41:03:INFO: Finalizando a execução dos trade dessa sessão.
+2020-05-17 23:53:55:ERROR: POSSIVEIS PROBLEMAS, COM A INTERNET, VERIFIÇÃO NÃO PODE SER EFETUADA.
+2020-05-17 23:53:55:INFO: AVISO ---> LICENÇA NÃO ENCONTRADA OU IVALIDA, ROBÔ SÓ FUNCIONARÁ EM CONTA TREINAMENTO . <---
+2020-05-17 23:53:55:INFO: Conectando na IQ-Option...
+2020-05-17 23:53:58:INFO: ----------> CONECTADO <----------
+2020-05-17 23:53:59:INFO: Versao: 4.0.3
+2020-05-17 23:53:59:INFO: Licenciado para o email: agussybanez@gmail.com
+2020-05-17 23:53:59:INFO: ************ DADOS DA CONTA NA IQOPTION *************
+2020-05-17 23:53:59:INFO: Id-Iq: 65729329
+2020-05-17 23:53:59:INFO: Moeda: USD
+2020-05-17 23:53:59:INFO: Saldo: 9952.87
+2020-05-17 23:53:59:INFO: Tipo conta: Treinamento
+2020-05-17 23:53:59:INFO: ------------ Dados Trade -------------
+2020-05-17 23:53:59:INFO: Tipo opção: DIGITAIS
+2020-05-17 23:53:59:INFO: Tipo calculo: Valor
+2020-05-17 23:53:59:INFO: Valor do trade: 1.0
+2020-05-17 23:53:59:INFO: Expiração: 1-(M1)
+2020-05-17 23:53:59:INFO: Delay em (segundos): 2
+2020-05-17 23:53:59:INFO: % Payout: 0.0
+2020-05-17 23:53:59:INFO: Trabalhar em OTC: NÃO
+2020-05-17 23:53:59:INFO: ------------ Dados Martingale -------------
+2020-05-17 23:53:59:INFO: Max. martingale: 2
+2020-05-17 23:53:59:INFO: Fator martingale: 1.8
+2020-05-17 23:53:59:INFO: ------------ Dados Gerenciamento -------------
+2020-05-17 23:53:59:INFO: Tipo calculo: Valor
+2020-05-17 23:53:59:INFO: Take profit em (valor): 16.0
+2020-05-17 23:53:59:INFO: Stop loss em (valor): 25.0
+2020-05-17 23:53:59:INFO: ------------ Dados Controle -------------
+2020-05-17 23:53:59:INFO: Horario servidor: S
+2020-05-17 23:53:59:INFO: Verifica ativo fechado: S
+2020-05-17 23:53:59:INFO: Verifica tendencia: False
+2020-05-17 23:53:59:INFO: Fuso horário: America/Argentina/Buenos_Aires
+2020-05-17 23:53:59:INFO: -> Aguardando horário: 17/05/2020 23:55:58 ativo: AUDJPY direção: PUT timeframe: 1
+2020-05-17 23:55:58:INFO:  | ---> Abrindo entradas: Servidor:  23:55:58 / Agendado: 23:56:00/23:55:58
+2020-05-17 23:55:59:INFO:  | ---> Nro. ordem: 11780005455 - Valor: 1.0 <====
+2020-05-17 23:57:03:INFO:    | ---> Ordem: 11780005455 | WIN | Valor: 1.0 | Ganho: 0.84 | Perda: 0
+2020-05-17 23:57:03:INFO:    | ---> Saldo: 0.84 | TakeProfit: 16.0 | StopLoss: 25.0
+2020-05-17 23:57:04:INFO: Finalizando a execução dos trade dessa sessão.
+2020-05-17 23:59:33:ERROR: POSSIVEIS PROBLEMAS, COM A INTERNET, VERIFIÇÃO NÃO PODE SER EFETUADA.
+2020-05-17 23:59:33:INFO: AVISO ---> LICENÇA NÃO ENCONTRADA OU IVALIDA, ROBÔ SÓ FUNCIONARÁ EM CONTA TREINAMENTO . <---
+2020-05-17 23:59:33:INFO: Conectando na IQ-Option...
+2020-05-17 23:59:38:INFO: ----------> CONECTADO <----------
+2020-05-17 23:59:38:INFO: Versao: 4.0.3
+2020-05-17 23:59:38:INFO: Licenciado para o email: agussybanez@gmail.com
+2020-05-17 23:59:38:INFO: ************ DADOS DA CONTA NA IQOPTION *************
+2020-05-17 23:59:38:INFO: Id-Iq: 65729329
+2020-05-17 23:59:38:INFO: Moeda: USD
+2020-05-17 23:59:38:INFO: Saldo: 9953.71
+2020-05-17 23:59:38:INFO: Tipo conta: Treinamento
+2020-05-17 23:59:38:INFO: ------------ Dados Trade -------------
+2020-05-17 23:59:38:INFO: Tipo opção: DIGITAIS
+2020-05-17 23:59:38:INFO: Tipo calculo: Valor
+2020-05-17 23:59:38:INFO: Valor do trade: 1.0
+2020-05-17 23:59:38:INFO: Expiração: 1-(M1)
+2020-05-17 23:59:38:INFO: Delay em (segundos): 2
+2020-05-17 23:59:38:INFO: % Payout: 0.0
+2020-05-17 23:59:38:INFO: Trabalhar em OTC: NÃO
+2020-05-17 23:59:38:INFO: ------------ Dados Martingale -------------
+2020-05-17 23:59:38:INFO: Max. martingale: 2
+2020-05-17 23:59:38:INFO: Fator martingale: 1.8
+2020-05-17 23:59:38:INFO: ------------ Dados Gerenciamento -------------
+2020-05-17 23:59:38:INFO: Tipo calculo: Valor
+2020-05-17 23:59:38:INFO: Take profit em (valor): 16.0
+2020-05-17 23:59:38:INFO: Stop loss em (valor): 25.0
+2020-05-17 23:59:38:INFO: ------------ Dados Controle -------------
+2020-05-17 23:59:38:INFO: Horario servidor: S
+2020-05-17 23:59:38:INFO: Verifica ativo fechado: S
+2020-05-17 23:59:38:INFO: Verifica tendencia: False
+2020-05-17 23:59:38:INFO: Fuso horário: America/Argentina/Buenos_Aires
+2020-05-17 23:59:40:ERROR: Verifique o arquivo [TRADE.TXT] - Pode não conter nenhuma linha no arquivo ou não existe lançamento de horário.
+2020-05-17 23:59:40:INFO: Finalizando a execução dos trade dessa sessão.
