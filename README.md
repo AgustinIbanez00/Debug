@@ -1,2 +1,0 @@
-# Debug
- AutoTrading Application
